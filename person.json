@@ -1,44 +1,31 @@
-[
-    {
-      "id": 8,
-      "age": 22,
-      "editable": "enable",
-      "eyeColor": "blue",
-      "name": "putri"
-    },
-    {
-      "id": 1,
-      "age": 30,
-      "editable": "enable",
-      "eyeColor": "green",
-      "name": "Carney Hoffman"
-    },
-    {
-      "id": 7,
-      "age": 22,
-      "editable": "disable",
-      "eyeColor": "brown",
-      "name": "yaaaadddddaaaaaaaayoa"
-    },
-    {
-      "id": 9,
-      "age": 22,
-      "editable": "disable",
-      "eyeColor": "red",
-      "name": "myg"
-    },
-    {
-      "id": 17,
-      "age": 21,
-      "editable": "enable",
-      "eyeColor": "brown",
-      "name": "bruno"
-    },
-    {
-      "id": 11,
-      "age": 30,
-      "editable": "disable",
-      "eyeColor": "green",
-      "name": "agus"
-    }
-  ]
+[{
+    "id": 1,
+    "age": 30,
+    "editable": "enable",
+    "eyeColor": "blue",
+    "name": "miftaaa"
+}, {
+    "id": 7,
+    "age": 22,
+    "editable": "disable",
+    "eyeColor": "brown",
+    "name": "yardan"
+}, {
+    "id": 9,
+    "age": 22,
+    "editable": "disable",
+    "eyeColor": "red",
+    "name": "mayang"
+}, {
+    "id": 17,
+    "age": 21,
+    "editable": "enable",
+    "eyeColor": "brown",
+    "name": "bruno"
+}, {
+    "id": 11,
+    "age": 30,
+    "editable": "enable",
+    "eyeColor": "green",
+    "name": "salim"
+}]
